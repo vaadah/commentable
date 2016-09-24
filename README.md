@@ -12,7 +12,7 @@
 Via Composer
 
 ``` bash
-$ composer require vadah/commentable
+$ composer require vaadah/commentable
 ```
 
 And then include the service provider within `app/config/app.php`.
