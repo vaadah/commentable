@@ -12,7 +12,7 @@
 Via Composer
 
 ``` bash
-$ composer require draperstudio/laravel-commentable
+$ composer require vadah/commentable
 ```
 
 And then include the service provider within `app/config/app.php`.
